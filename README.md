@@ -1,4 +1,8 @@
-# Código de conduta - Soro+Tech
+<h1 align="center">Vagas</h1>
+
+<p align="center">:microscope: Espaço para o código de conduta</p>
+
+# Soro+Tech
 
 Acreditamos em um ambiente onde todas as pessoas se sintam à vontade e possam compartilhar suas opiniões, desafios, vitórias e problemas para que a comunidade possa auxiliar no crescimento de todos. Participantes, palestrantes, representantes de empresas e pessoas voluntárias da conferência/encontro precisam concordar com este código de conduta. A equipe organizadora vai reforçar que este código seja seguido durante todo o evento. Esperamos a cooperação de todas as partes para ajudar a garantir um ambiente seguro para qualquer pessoa.
 
