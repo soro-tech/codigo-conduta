@@ -1,6 +1,6 @@
-<h1 align="center">Vagas</h1>
+<h1 align="center">Código de conduta</h1>
 
-<p align="center">:microscope: Espaço para o código de conduta</p>
+<p align="center">:microscope: Espaço para o código de conduta da comunidade</p>
 
 # Soro+Tech
 
