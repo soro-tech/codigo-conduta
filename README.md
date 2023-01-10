@@ -1,6 +1,6 @@
 <h1 align="center">Código de conduta</h1>
 
-<p align="center">:microscope: Espaço para o código de conduta da comunidade</p>
+<p align="center">:couch_and_lamp: Espaço para o código de conduta da comunidade</p>
 
 # Soro+Tech
 
